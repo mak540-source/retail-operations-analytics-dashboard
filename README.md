@@ -46,7 +46,7 @@ This dashboard solves that problem by combining retail operations data into one 
 ## 🗂️ Repository Structure
 
 ```text
-retail-ops-dashboard/
+retail-operations-analytics-dashboard/
 │
 ├── README.md
 │
@@ -74,8 +74,8 @@ retail-ops-dashboard/
 │
 ├── documentation/
 │   ├── data_dictionary.md
-│   ├── er_diagram.md
-│   └── project_overview.md
+│   ├── project_overview.md
+│   └── resume_and_linkedin.md
 │
 └── screenshots/
     ├── powerbi_dashboard_overview.png
@@ -254,7 +254,7 @@ Open the file:
 powerbi/Retail_Operations_Dashboard.pbix
 ```
 
-The dashboard connects to the project data and includes an executive summary page and inventory risk page.
+The dashboard includes an executive summary page and an inventory risk page.
 
 ### Step 4 — Build or Review the Excel Dashboard
 
