@@ -1,0 +1,9 @@
+store_id,store_name,region,city_state
+STR01,Store 4721,Northeast,"Boston, MA"
+STR02,Store 1803,Southeast,"Atlanta, GA"
+STR03,Store 2294,Midwest,"Chicago, IL"
+STR04,Store 3317,Southwest,"Dallas, TX"
+STR05,Store 5501,West,"Los Angeles, CA"
+STR06,Store 6042,Northeast,"New York, NY"
+STR07,Store 7188,Midwest,"Columbus, OH"
+STR08,Store 8830,Southeast,"Orlando, FL"

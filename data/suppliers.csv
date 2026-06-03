@@ -1,0 +1,11 @@
+supplier_id,supplier_name,specialty,location
+SUP01,FreshFarm Co.,Fresh Produce,"Chicago, IL"
+SUP02,DairyBest Inc.,Dairy & Eggs,"Madison, WI"
+SUP03,Pacific Seafood,Meat & Seafood,"Seattle, WA"
+SUP04,Sunrise Bakery,Bakery,"Atlanta, GA"
+SUP05,Arctic Foods,Frozen Foods,"Minneapolis, MN"
+SUP06,BlueSky Beverages,Beverages,"Dallas, TX"
+SUP07,Snack World,Snacks & Candy,"Columbus, OH"
+SUP08,CleanHome Corp.,Household & Cleaning,"Detroit, MI"
+SUP09,GlowUp Supply,Personal Care,"Miami, FL"
+SUP10,TinySteps LLC,Baby & Toddler,"Phoenix, AZ"

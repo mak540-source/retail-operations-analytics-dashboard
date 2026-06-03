@@ -1,0 +1,31 @@
+product_id,product_name,category_id,supplier_id,unit_cost,unit_price
+PRD001,Organic Bananas,CAT01,SUP01,0.59,2.99
+PRD002,Baby Spinach 5oz,CAT01,SUP01,1.2,3.49
+PRD003,Roma Tomatoes,CAT01,SUP01,0.75,2.49
+PRD004,Whole Milk 1gal,CAT02,SUP02,2.1,4.29
+PRD005,Large Eggs 12ct,CAT02,SUP02,1.8,4.99
+PRD006,Shredded Cheddar 2lb,CAT02,SUP02,3.5,7.49
+PRD007,Chicken Breast 2lb,CAT03,SUP03,4.2,8.99
+PRD008,Atlantic Salmon 1lb,CAT03,SUP03,5.5,10.99
+PRD009,Ground Beef 1lb,CAT03,SUP03,3.8,7.49
+PRD010,White Sandwich Bread,CAT04,SUP04,0.9,2.79
+PRD011,Blueberry Muffins 4ct,CAT04,SUP04,1.5,3.99
+PRD012,Bagels 6ct,CAT04,SUP04,1.2,3.49
+PRD013,Frozen Pizza 12in,CAT05,SUP05,3.2,6.98
+PRD014,Frozen Broccoli 12oz,CAT05,SUP05,1.1,2.68
+PRD015,Ice Cream 1.5qt,CAT05,SUP05,2.8,5.98
+PRD016,Orange Juice 52oz,CAT06,SUP06,1.8,4.49
+PRD017,Sparkling Water 12pk,CAT06,SUP06,2.5,5.99
+PRD018,2% Reduced Fat Milk,CAT02,SUP02,2.0,4.19
+PRD019,Potato Chips 8oz,CAT07,SUP07,0.9,3.49
+PRD020,Mixed Nuts 10oz,CAT07,SUP07,4.2,8.99
+PRD021,Granola Bars 6ct,CAT07,SUP07,1.8,4.29
+PRD022,Laundry Detergent 64oz,CAT08,SUP08,5.2,10.99
+PRD023,Paper Towels 6pk,CAT08,SUP08,3.8,8.49
+PRD024,Dish Soap 24oz,CAT08,SUP08,1.5,3.29
+PRD025,Shampoo 12oz,CAT09,SUP09,2.2,5.49
+PRD026,Body Wash 18oz,CAT09,SUP09,2.5,5.99
+PRD027,Toothpaste 4oz,CAT09,SUP09,1.2,3.49
+PRD028,Baby Wipes 72ct,CAT10,SUP10,2.8,5.99
+PRD029,Diapers Size 3 27ct,CAT10,SUP10,8.5,16.99
+PRD030,Baby Formula 12oz,CAT10,SUP10,10.2,22.99
